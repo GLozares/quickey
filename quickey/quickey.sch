@@ -2913,4 +2913,10 @@ Wire Wire Line
 Connection ~ 9300 6500
 Wire Wire Line
 	9300 6500 9300 6600
+NoConn ~ 2800 4800
+NoConn ~ 2800 5700
+NoConn ~ 2800 5900
+NoConn ~ 2800 6000
+NoConn ~ 2800 6200
+NoConn ~ 2800 6300
 $EndSCHEMATC
